@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_Recordset1" value="name:CategoryId;datatype:int,name:CategoryName;datatype:string" />
+	<infoitem key="UD_Recordset2" value="name:ItemId;datatype:int,name:ItemName;datatype:string,name:Size;datatype:string,name:Image;datatype:string,name:Price;datatype:real,name:Discount;datatype:real,name:Total;datatype:real" />
+</info>
